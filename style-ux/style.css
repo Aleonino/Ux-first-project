@@ -1,0 +1,39 @@
+
+/* #theNav {}
+
+.theImageDiv {}
+
+theImageDiv {} */
+
+/* this is how you target ID, classes and tag */
+body {
+  margin: 0;
+  padding: 0;
+}
+.theImageDiv {
+  background-color: #cf7c0f;
+}
+.centerContent {
+padding-left: 20vw;
+}
+img {
+  width: 55vw;
+  border: 10px solid lightsgrey;
+}
+.newBackgroundColor {
+  background-color: rgb(27, 92, 52);
+}
+h1 {
+  font-size: 72px;
+}
+#theNav a {
+  padding-left: 2vw;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+#theNav {
+  background-color: #5477d1;
+  height: 7vh;
+  padding: 3vh 5vw ;
+}
